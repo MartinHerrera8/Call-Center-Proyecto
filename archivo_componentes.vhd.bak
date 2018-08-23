@@ -1,0 +1,111 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+package archivo_componentes is 
+	Component CLOCK_DIV_10_MHz is
+    Port
+    (  CLOCK_10MHz     :IN   STD_LOGIC;
+       CLOCK_1MHz     :OUT  STD_LOGIC;
+       CLOCK_100KHz   :OUT  STD_LOGIC;
+       CLOCK_10KHz    :OUT  STD_LOGIC;
+       CLOCK_1KHz     :OUT  STD_LOGIC;
+       CLOCK_100Hz    :OUT  STD_LOGIC;
+       CLOCK_10Hz     :OUT  STD_LOGIC;
+       CLOCK_1Hz      :OUT  STD_LOGIC);
+	end Component;
+
+	Component encoder_Dec_BCD is
+		Port ( Ent: in STD_LOGIC_VECTOR(9 downto 0);
+				 Salida : OUT STD_LOGIC_VECTOR(3 downto 0));
+	end Component;
+
+	component comparador
+		port(A,B: in std_logic_vector(3 downto 0);
+		mayor, menor, igual: out std_logic); 
+	end component;
+
+	Component comparador_3bits is
+		port(A,B: in std_logic_vector(2 downto 0);
+			  igual: out std_logic); 
+	end Component;
+	
+	Component comparador_24bits is
+		port(A,B: in std_logic_vector(23 downto 0);
+		igual: out std_logic); 
+	end Component;
+
+	component mux_3s
+		Port (num1: IN std_logic_vector (3 downto 0);
+				num2: IN std_logic_vector (3 downto 0);
+				num3: IN std_logic_vector (3 downto 0);
+				num4: IN std_logic_vector (3 downto 0);
+				num5: IN std_logic_vector (3 downto 0);
+				num6: IN std_logic_vector (3 downto 0);
+				selector: IN std_logic_vector (2 downto 0);
+				s: OUT std_logic_vector (3 downto 0));
+	end component;
+
+	Component mux_8s is
+		Port (num1: IN std_logic_vector (3 downto 0);
+				num2: IN std_logic_vector (3 downto 0);
+				num3: IN std_logic_vector (3 downto 0);
+				num4: IN std_logic_vector (3 downto 0);
+				num5: IN std_logic_vector (3 downto 0);
+				num6: IN std_logic_vector (3 downto 0);
+				num7: IN std_logic_vector (3 downto 0);
+				num8: IN std_logic_vector (3 downto 0);
+				selector: IN std_logic_vector (7 downto 0);
+				s: OUT std_logic_vector (3 downto 0));
+	end Component;
+
+	Component mux_2selector_restador is
+		Port (num1: IN std_logic_vector (2 downto 0);
+				num2: IN std_logic_vector (2 downto 0);
+				num3: IN std_logic_vector (2 downto 0);		
+				selector: IN std_logic_vector (1 downto 0);
+				s: OUT std_logic_vector (2 downto 0));
+	end Component;
+
+	Component mux_1selector is
+		Port (num1: IN std_logic_vector (3 downto 0);
+				num2: IN std_logic_vector (3 downto 0);		
+				selector: IN std_logic;
+				s: OUT std_logic_vector (3 downto 0));
+	end Component;
+
+	component contador_1 is
+		 PORT (clk_cont,reset_cont  : IN  STD_LOGIC;
+			  suma: OUT STD_LOGIC_VECTOR(2 DOWNTO 0));
+	end component;
+
+	Component contador_1_4bits is
+		 PORT (
+			  clk_cont,reset_cont  : IN  STD_LOGIC;
+			  suma: OUT STD_LOGIC_VECTOR(3 DOWNTO 0)
+		 );
+	end Component;
+
+	Component flip_flop_D is
+		port (clk, reset: in std_logic;
+				 d: in std_logic;
+				 q: out std_logic);
+	end Component;
+
+	component RAM is
+	  port (clock   : in  std_logic;
+			  we      : in  std_logic;
+			  address : in  std_logic_vector (2 downto 0);
+			  datain  : in  std_logic_vector (3 downto 0);
+			  dataout : out std_logic_vector (3 downto 0));
+	end component;
+
+	Component registro_sostenimiento is
+		PORT(clock,reset,enable: IN STD_LOGIC;
+			 Ent : IN STD_LOGIC_VECTOR(3 downto 0);
+			 Q : OUT STD_LOGIC_VECTOR (3 downto 0));
+	end Component;
+
+	Component decoder_de_bcd_a_7segmentos_vhdl is
+		port( BCD: in std_logic_vector(3 downto 0);
+				SEG7: out std_logic_vector(6 downto 0));
+	end Component;

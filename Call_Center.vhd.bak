@@ -1,0 +1,26 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+use work.archivo_componentes.all;
+
+Entity Call_Center is
+	Port ( 	u1,u2,u3,u4,u5,u6,u7,u8: IN std_logic;
+				clock,resetn:				 IN std_logic; --Por default
+				start:				 		 IN std_logic;
+				REALIZAR_LLAMADA:			 IN std_logic;
+				FINALIZAR_LLAMADA:		 IN std_logic;
+				HISTORIAL_LLAMADAS:		 IN std_logic;
+				BORRAR:				 		 IN std_logic;
+				TECLADO:						 IN std_logic_vector (9 downto 0);
+				LLAMADA_EN_PROGRESO:		 BUFFER std_logic_vector (7 downto 0);
+				OCUPADO:						 OUT std_logic;
+				DISPLAY_1n:				 OUT std_logic_vector (3 downto 0);
+				DISPLAY_2n:				 OUT std_logic_vector (3 downto 0);
+				DISPLAY_3n:				 OUT std_logic_vector (3 downto 0);
+				DISPLAY_4n:				 OUT std_logic_vector (3 downto 0);
+				DISPLAY_5n:				 OUT std_logic_vector (3 downto 0);
+				DISPLAY_6n:				 OUT std_logic_vector (3 downto 0)
+				);
+end Call_Center;
+
+Architecture uno of Call_Center is

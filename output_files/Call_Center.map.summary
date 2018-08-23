@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Aug 23 16:28:36 2018
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+Revision Name : Call_Center
+Top-level Entity Name : Call_Center
+Family : Cyclone IV E
+Total logic elements : 842
+    Total combinational functions : 766
+    Dedicated logic registers : 243
+Total registers : 243
+Total pins : 61
+Total virtual pins : 0
+Total memory bits : 3,072
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

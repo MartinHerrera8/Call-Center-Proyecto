@@ -1,0 +1,253 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "LLAMADA_EN_PROGRESO[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LLAMADA_EN_PROGRESO[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LLAMADA_EN_PROGRESO[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LLAMADA_EN_PROGRESO[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LLAMADA_EN_PROGRESO[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LLAMADA_EN_PROGRESO[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LLAMADA_EN_PROGRESO[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LLAMADA_EN_PROGRESO[7]",
+					"strict" : false
+				},
+				{
+					"name" : "OCUPADO",
+					"strict" : false
+				},
+				{
+					"name" : "t_a",
+					"strict" : false
+				},
+				{
+					"name" : "t_b",
+					"strict" : false
+				},
+				{
+					"name" : "t_c",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_1n[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_1n[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_1n[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_1n[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_2n[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_2n[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_2n[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_2n[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_3n[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_3n[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_3n[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_3n[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_4n[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_4n[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_4n[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_4n[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_5n[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_5n[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_5n[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_5n[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_6n[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_6n[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_6n[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DISPLAY_6n[3]",
+					"strict" : false
+				},
+				{
+					"name" : "u4",
+					"strict" : false
+				},
+				{
+					"name" : "u3",
+					"strict" : false
+				},
+				{
+					"name" : "u1",
+					"strict" : false
+				},
+				{
+					"name" : "u2",
+					"strict" : false
+				},
+				{
+					"name" : "u5",
+					"strict" : false
+				},
+				{
+					"name" : "u6",
+					"strict" : false
+				},
+				{
+					"name" : "u8",
+					"strict" : false
+				},
+				{
+					"name" : "u7",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "TECLADO[7]",
+					"strict" : false
+				},
+				{
+					"name" : "TECLADO[6]",
+					"strict" : false
+				},
+				{
+					"name" : "TECLADO[8]",
+					"strict" : false
+				},
+				{
+					"name" : "TECLADO[1]",
+					"strict" : false
+				},
+				{
+					"name" : "TECLADO[0]",
+					"strict" : false
+				},
+				{
+					"name" : "TECLADO[9]",
+					"strict" : false
+				},
+				{
+					"name" : "TECLADO[3]",
+					"strict" : false
+				},
+				{
+					"name" : "TECLADO[2]",
+					"strict" : false
+				},
+				{
+					"name" : "TECLADO[4]",
+					"strict" : false
+				},
+				{
+					"name" : "TECLADO[5]",
+					"strict" : false
+				},
+				{
+					"name" : "REALIZAR_LLAMADA",
+					"strict" : false
+				},
+				{
+					"name" : "resetn",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				},
+				{
+					"name" : "FINALIZAR_LLAMADA",
+					"strict" : false
+				},
+				{
+					"name" : "BORRAR",
+					"strict" : false
+				},
+				{
+					"name" : "HISTORIAL_LLAMADAS",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

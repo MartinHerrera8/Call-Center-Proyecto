@@ -1,0 +1,1361 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|clock_ff_d'
+Slack : -9.259
+TNS   : -68.311
+
+Type  : Slow 1200mV 85C Model Setup 'u1'
+Slack : -6.995
+TNS   : -91.388
+
+Type  : Slow 1200mV 85C Model Setup 'clock'
+Slack : -5.391
+TNS   : -209.513
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|y.Tj'
+Slack : -4.836
+TNS   : -31.809
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|y.T_hi'
+Slack : -4.678
+TNS   : -40.276
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|y.Ta'
+Slack : -4.566
+TNS   : -79.550
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|y.Te'
+Slack : -1.243
+TNS   : -6.993
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_DIV_50:G|clock_10Khz_int'
+Slack : -1.149
+TNS   : -1.211
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_DIV_50:G|clock_100Khz_int'
+Slack : -1.116
+TNS   : -1.286
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_DIV_50:G|clock_1Khz_int'
+Slack : -1.063
+TNS   : -1.148
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_DIV_50:G|clock_100hz_int'
+Slack : -1.026
+TNS   : -1.144
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_DIV_50:G|clock_1Mhz_int'
+Slack : -0.987
+TNS   : -1.191
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|incremento_u5'
+Slack : -0.664
+TNS   : -0.903
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|incremento_u6'
+Slack : -0.542
+TNS   : -0.578
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_DIV_50:G|clock_10hz_int'
+Slack : -0.500
+TNS   : -0.573
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|incremento_u3'
+Slack : -0.405
+TNS   : -0.775
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|incremento_u8'
+Slack : -0.387
+TNS   : -0.520
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|incremento_u1'
+Slack : -0.288
+TNS   : -0.422
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|incremento_u2'
+Slack : -0.288
+TNS   : -0.397
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|incremento_u7'
+Slack : -0.244
+TNS   : -0.399
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_DIV_50:G|CLOCK_100Hz'
+Slack : -0.188
+TNS   : -1.350
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|incrementa'
+Slack : -0.163
+TNS   : -0.194
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|ihist_u3'
+Slack : -0.162
+TNS   : -0.192
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|ihist_u1'
+Slack : -0.156
+TNS   : -0.188
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|ihist_u2'
+Slack : -0.151
+TNS   : -0.194
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|incremento_u4'
+Slack : -0.117
+TNS   : -0.117
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_DIV_50:G|CLOCK_1Hz'
+Slack : -0.088
+TNS   : -0.224
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|ihist_u7'
+Slack : -0.056
+TNS   : -0.108
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|ihist_u6'
+Slack : -0.053
+TNS   : -0.104
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|ihist_u5'
+Slack : -0.046
+TNS   : -0.087
+
+Type  : Slow 1200mV 85C Model Setup 'MSS_Call_Center:MSS|ihist_u8'
+Slack : -0.042
+TNS   : -0.076
+
+Type  : Slow 1200mV 85C Model Hold 'clock'
+Slack : -0.016
+TNS   : -0.016
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|y.T_hi'
+Slack : -0.012
+TNS   : -0.012
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|y.Ta'
+Slack : 0.054
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|ihist_u8'
+Slack : 0.357
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_DIV_50:G|CLOCK_1Hz'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_DIV_50:G|clock_100Khz_int'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_DIV_50:G|clock_100hz_int'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_DIV_50:G|clock_10Khz_int'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_DIV_50:G|clock_10hz_int'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_DIV_50:G|clock_1Khz_int'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_DIV_50:G|clock_1Mhz_int'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|ihist_u2'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|ihist_u3'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|ihist_u5'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|ihist_u6'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|ihist_u7'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|incremento_u1'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|incremento_u3'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|ihist_u1'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|incremento_u2'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'u1'
+Slack : 0.362
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_DIV_50:G|CLOCK_100Hz'
+Slack : 0.366
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|incrementa'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|incremento_u4'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|incremento_u5'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|incremento_u6'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|incremento_u7'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|incremento_u8'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|y.Te'
+Slack : 0.427
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|y.Tj'
+Slack : 1.929
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MSS_Call_Center:MSS|clock_ff_d'
+Slack : 2.828
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'clock'
+Slack : -1.164
+TNS   : -20.705
+
+Type  : Slow 1200mV 85C Model Recovery 'CLOCK_DIV_50:G|CLOCK_1Hz'
+Slack : -0.603
+TNS   : -4.172
+
+Type  : Slow 1200mV 85C Model Recovery 'MSS_Call_Center:MSS|incrementa'
+Slack : -0.424
+TNS   : -1.696
+
+Type  : Slow 1200mV 85C Model Recovery 'MSS_Call_Center:MSS|ihist_u1'
+Slack : -0.162
+TNS   : -0.648
+
+Type  : Slow 1200mV 85C Model Recovery 'MSS_Call_Center:MSS|ihist_u3'
+Slack : -0.137
+TNS   : -0.548
+
+Type  : Slow 1200mV 85C Model Recovery 'MSS_Call_Center:MSS|ihist_u7'
+Slack : -0.060
+TNS   : -0.240
+
+Type  : Slow 1200mV 85C Model Recovery 'MSS_Call_Center:MSS|ihist_u5'
+Slack : -0.048
+TNS   : -0.192
+
+Type  : Slow 1200mV 85C Model Recovery 'MSS_Call_Center:MSS|ihist_u6'
+Slack : 0.008
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'MSS_Call_Center:MSS|ihist_u8'
+Slack : 0.050
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'MSS_Call_Center:MSS|ihist_u2'
+Slack : 0.096
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clock'
+Slack : 0.223
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'MSS_Call_Center:MSS|ihist_u2'
+Slack : 0.465
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'MSS_Call_Center:MSS|ihist_u8'
+Slack : 0.484
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'MSS_Call_Center:MSS|ihist_u6'
+Slack : 0.501
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'MSS_Call_Center:MSS|ihist_u5'
+Slack : 0.548
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'MSS_Call_Center:MSS|ihist_u7'
+Slack : 0.580
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'MSS_Call_Center:MSS|ihist_u1'
+Slack : 0.646
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'MSS_Call_Center:MSS|ihist_u3'
+Slack : 0.665
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CLOCK_DIV_50:G|CLOCK_1Hz'
+Slack : 0.942
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'MSS_Call_Center:MSS|incrementa'
+Slack : 1.050
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u1'
+Slack : -5.007
+TNS   : -1178.755
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -166.460
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_DIV_50:G|CLOCK_100Hz'
+Slack : -1.000
+TNS   : -80.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_DIV_50:G|CLOCK_1Hz'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|clock_ff_d'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_100Khz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_100hz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_10Khz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_10hz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_1Khz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_1Mhz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u1'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u2'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u3'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u5'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u6'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u7'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u8'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incrementa'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u1'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u2'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u3'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u4'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u5'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u6'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u7'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u8'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|y.Tj'
+Slack : 0.330
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|y.T_hi'
+Slack : 0.363
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|y.Ta'
+Slack : 0.390
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MSS_Call_Center:MSS|y.Te'
+Slack : 0.448
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|clock_ff_d'
+Slack : -8.289
+TNS   : -61.478
+
+Type  : Slow 1200mV 0C Model Setup 'u1'
+Slack : -6.174
+TNS   : -79.310
+
+Type  : Slow 1200mV 0C Model Setup 'clock'
+Slack : -4.747
+TNS   : -179.165
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|y.Tj'
+Slack : -4.463
+TNS   : -29.120
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|y.T_hi'
+Slack : -4.192
+TNS   : -36.038
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|y.Ta'
+Slack : -4.038
+TNS   : -69.341
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|y.Te'
+Slack : -1.162
+TNS   : -6.578
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_DIV_50:G|clock_10Khz_int'
+Slack : -0.944
+TNS   : -0.944
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_DIV_50:G|clock_100Khz_int'
+Slack : -0.888
+TNS   : -0.888
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_DIV_50:G|clock_1Khz_int'
+Slack : -0.847
+TNS   : -0.847
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_DIV_50:G|clock_100hz_int'
+Slack : -0.822
+TNS   : -0.822
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_DIV_50:G|clock_1Mhz_int'
+Slack : -0.812
+TNS   : -0.825
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u5'
+Slack : -0.482
+TNS   : -0.482
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u6'
+Slack : -0.377
+TNS   : -0.377
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_DIV_50:G|clock_10hz_int'
+Slack : -0.344
+TNS   : -0.344
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u3'
+Slack : -0.252
+TNS   : -0.360
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u8'
+Slack : -0.235
+TNS   : -0.239
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u2'
+Slack : -0.153
+TNS   : -0.153
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u1'
+Slack : -0.149
+TNS   : -0.149
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u7'
+Slack : -0.108
+TNS   : -0.108
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_DIV_50:G|CLOCK_100Hz'
+Slack : -0.053
+TNS   : -0.191
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|ihist_u3'
+Slack : -0.034
+TNS   : -0.034
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incrementa'
+Slack : -0.031
+TNS   : -0.031
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|ihist_u1'
+Slack : -0.027
+TNS   : -0.027
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|ihist_u2'
+Slack : -0.023
+TNS   : -0.023
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u4'
+Slack : 0.008
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_DIV_50:G|CLOCK_1Hz'
+Slack : 0.034
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|ihist_u7'
+Slack : 0.056
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|ihist_u6'
+Slack : 0.060
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|ihist_u5'
+Slack : 0.066
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'MSS_Call_Center:MSS|ihist_u8'
+Slack : 0.070
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clock'
+Slack : 0.005
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|y.T_hi'
+Slack : 0.017
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|y.Ta'
+Slack : 0.048
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_DIV_50:G|clock_100hz_int'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_DIV_50:G|clock_10hz_int'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_DIV_50:G|clock_1Mhz_int'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|ihist_u2'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_DIV_50:G|CLOCK_1Hz'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_DIV_50:G|clock_10Khz_int'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_DIV_50:G|clock_1Khz_int'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|ihist_u1'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|ihist_u7'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|ihist_u8'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u1'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u2'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u3'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_DIV_50:G|clock_100Khz_int'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|ihist_u3'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|ihist_u5'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|ihist_u6'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_DIV_50:G|CLOCK_100Hz'
+Slack : 0.331
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incrementa'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u4'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u5'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u6'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u7'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u8'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'u1'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|y.Te'
+Slack : 0.541
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|y.Tj'
+Slack : 1.737
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MSS_Call_Center:MSS|clock_ff_d'
+Slack : 2.547
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'clock'
+Slack : -0.917
+TNS   : -14.799
+
+Type  : Slow 1200mV 0C Model Recovery 'CLOCK_DIV_50:G|CLOCK_1Hz'
+Slack : -0.486
+TNS   : -3.176
+
+Type  : Slow 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|incrementa'
+Slack : -0.269
+TNS   : -1.076
+
+Type  : Slow 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|ihist_u1'
+Slack : -0.049
+TNS   : -0.196
+
+Type  : Slow 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|ihist_u3'
+Slack : -0.041
+TNS   : -0.164
+
+Type  : Slow 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|ihist_u7'
+Slack : 0.027
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|ihist_u5'
+Slack : 0.031
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|ihist_u6'
+Slack : 0.088
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|ihist_u8'
+Slack : 0.120
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|ihist_u2'
+Slack : 0.160
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clock'
+Slack : 0.157
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'MSS_Call_Center:MSS|ihist_u8'
+Slack : 0.430
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'MSS_Call_Center:MSS|ihist_u2'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'MSS_Call_Center:MSS|ihist_u6'
+Slack : 0.458
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'MSS_Call_Center:MSS|ihist_u5'
+Slack : 0.524
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'MSS_Call_Center:MSS|ihist_u7'
+Slack : 0.563
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'MSS_Call_Center:MSS|ihist_u1'
+Slack : 0.597
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'MSS_Call_Center:MSS|ihist_u3'
+Slack : 0.608
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CLOCK_DIV_50:G|CLOCK_1Hz'
+Slack : 0.892
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'MSS_Call_Center:MSS|incrementa'
+Slack : 0.928
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u1'
+Slack : -4.453
+TNS   : -1028.162
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -167.634
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|CLOCK_100Hz'
+Slack : -1.000
+TNS   : -80.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|CLOCK_1Hz'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|clock_ff_d'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_100Khz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_100hz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_10Khz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_10hz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_1Khz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_1Mhz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u1'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u2'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u3'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u5'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u6'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u7'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u8'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incrementa'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u1'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u2'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u3'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u4'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u5'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u6'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u7'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u8'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|y.Tj'
+Slack : 0.351
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|y.T_hi'
+Slack : 0.387
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|y.Ta'
+Slack : 0.410
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|y.Te'
+Slack : 0.463
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|clock_ff_d'
+Slack : -5.360
+TNS   : -39.535
+
+Type  : Fast 1200mV 0C Model Setup 'u1'
+Slack : -3.966
+TNS   : -47.167
+
+Type  : Fast 1200mV 0C Model Setup 'clock'
+Slack : -2.711
+TNS   : -87.693
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|y.T_hi'
+Slack : -2.646
+TNS   : -21.121
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|y.Tj'
+Slack : -2.538
+TNS   : -16.303
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|y.Ta'
+Slack : -2.468
+TNS   : -38.357
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_DIV_50:G|clock_1Khz_int'
+Slack : -0.497
+TNS   : -0.497
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_DIV_50:G|clock_100Khz_int'
+Slack : -0.466
+TNS   : -0.466
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|y.Te'
+Slack : -0.425
+TNS   : -2.212
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_DIV_50:G|clock_10Khz_int'
+Slack : -0.361
+TNS   : -0.361
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_DIV_50:G|clock_100hz_int'
+Slack : -0.330
+TNS   : -0.330
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_DIV_50:G|clock_1Mhz_int'
+Slack : -0.266
+TNS   : -0.266
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u5'
+Slack : 0.089
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u6'
+Slack : 0.163
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_DIV_50:G|clock_10hz_int'
+Slack : 0.165
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u3'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u8'
+Slack : 0.245
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u1'
+Slack : 0.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u2'
+Slack : 0.286
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u7'
+Slack : 0.314
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_DIV_50:G|CLOCK_100Hz'
+Slack : 0.330
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|ihist_u3'
+Slack : 0.343
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|ihist_u1'
+Slack : 0.350
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|ihist_u2'
+Slack : 0.353
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incrementa'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|incremento_u4'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_DIV_50:G|CLOCK_1Hz'
+Slack : 0.387
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|ihist_u7'
+Slack : 0.409
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|ihist_u6'
+Slack : 0.410
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|ihist_u5'
+Slack : 0.412
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MSS_Call_Center:MSS|ihist_u8'
+Slack : 0.417
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|y.T_hi'
+Slack : -0.009
+TNS   : -0.009
+
+Type  : Fast 1200mV 0C Model Hold 'clock'
+Slack : -0.006
+TNS   : -0.006
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|y.Ta'
+Slack : 0.035
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u1'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_DIV_50:G|clock_1Mhz_int'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_DIV_50:G|CLOCK_1Hz'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_DIV_50:G|clock_100Khz_int'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_DIV_50:G|clock_100hz_int'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_DIV_50:G|clock_1Khz_int'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_DIV_50:G|clock_10Khz_int'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_DIV_50:G|clock_10hz_int'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|ihist_u2'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|ihist_u3'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|ihist_u5'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|ihist_u7'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|ihist_u8'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u1'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u2'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u3'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_DIV_50:G|CLOCK_100Hz'
+Slack : 0.189
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|ihist_u1'
+Slack : 0.189
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|ihist_u6'
+Slack : 0.189
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incrementa'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u4'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u5'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u6'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u7'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|incremento_u8'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|y.Te'
+Slack : 0.283
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|y.Tj'
+Slack : 1.269
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MSS_Call_Center:MSS|clock_ff_d'
+Slack : 1.498
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'clock'
+Slack : -0.382
+TNS   : -3.308
+
+Type  : Fast 1200mV 0C Model Recovery 'CLOCK_DIV_50:G|CLOCK_1Hz'
+Slack : -0.193
+TNS   : -0.772
+
+Type  : Fast 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|ihist_u1'
+Slack : 0.110
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|ihist_u3'
+Slack : 0.150
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|incrementa'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|ihist_u5'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|ihist_u7'
+Slack : 0.202
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|ihist_u6'
+Slack : 0.221
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|ihist_u8'
+Slack : 0.250
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'MSS_Call_Center:MSS|ihist_u2'
+Slack : 0.280
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clock'
+Slack : 0.093
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'MSS_Call_Center:MSS|ihist_u8'
+Slack : 0.399
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'MSS_Call_Center:MSS|ihist_u6'
+Slack : 0.427
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'MSS_Call_Center:MSS|ihist_u2'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'MSS_Call_Center:MSS|ihist_u5'
+Slack : 0.461
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CLOCK_DIV_50:G|CLOCK_1Hz'
+Slack : 0.475
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'MSS_Call_Center:MSS|ihist_u7'
+Slack : 0.488
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'MSS_Call_Center:MSS|ihist_u3'
+Slack : 0.497
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'MSS_Call_Center:MSS|ihist_u1'
+Slack : 0.520
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'MSS_Call_Center:MSS|incrementa'
+Slack : 0.619
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u1'
+Slack : -3.068
+TNS   : -728.280
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -128.859
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|CLOCK_100Hz'
+Slack : -1.000
+TNS   : -80.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|CLOCK_1Hz'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|clock_ff_d'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_100Khz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_100hz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_10Khz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_10hz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_1Khz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_DIV_50:G|clock_1Mhz_int'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u1'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u2'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u3'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u5'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u6'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u7'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|ihist_u8'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incrementa'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u1'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u2'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u3'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u4'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u5'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u6'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u7'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|incremento_u8'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|y.Ta'
+Slack : 0.347
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|y.Tj'
+Slack : 0.349
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|y.Te'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MSS_Call_Center:MSS|y.T_hi'
+Slack : 0.405
+TNS   : 0.000
+
+------------------------------------------------------------
